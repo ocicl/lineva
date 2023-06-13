@@ -4,7 +4,7 @@ Linear evaluation macro system for Common Lisp
 
 |---------+-------------------------------------------|
 | source  | git:https://github.com/dzangfan/lineva.git   |
-| commit  | {"messa  |
+| commit  | 156a759  |
 | systems | lineva |
 |---------+-------------------------------------------|
 
